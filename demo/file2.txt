@@ -1,0 +1,23 @@
+things done for creating folder and files
+
+pela install git...terminal ma command-> sudo apt-get install git
+1. $ git init
+2. github par jai new repositary banavani
+3. back to terminal
+4. git add.
+5. git commit -m "enter any msg"
+6. git config user.email "vishwa.bhatt.023@gmail.com"
+7. git config user.name "Vishwa-bhatt"
+8. git commit -m "demo msg" (Point no.5 again)
+9. git branch -M main
+10. git remote add origin main "api"(copy it from mentioned in your git account)
+11. git push origin main
+
+--> whenever you want to add another file/folder/or edited any files:-
+git add .
+git commit -m "any msg to display"
+git push origin main
+
+Inshort, updated anything then => {
+    add, commit, push!
+}
